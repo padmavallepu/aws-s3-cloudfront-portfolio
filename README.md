@@ -128,5 +128,5 @@ aws cloudfront create-invalidation \
 
 ## 📌 Live Demo
 
-🔗 [your-domain.com](https://your-domain.com)  
-🔗 [CloudFront URL](https://xxxxxxxxxxxx.cloudfront.net)
+🔗 [your-domain.com](https://d1l92miu16h8b3.cloudfront.net)  
+🔗 [CloudFront URL](https://d1l92miu16h8b3.cloudfront.net)
