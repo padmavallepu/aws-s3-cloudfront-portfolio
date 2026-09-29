@@ -103,16 +103,18 @@ aws cloudfront create-invalidation \
 
 ## 📁 Project Structure
 
-```
-├── index.html        # Main page
-├── error.html        # 404 error page
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-└── assets/
-    └── images/
-```
+padma-responsive-portfolio
+├── index.html
+├── about.html
+├── education.html
+├── skills.html
+├── projects.html
+├── contact.html
+│
+└── assets
+    ├── profile.jpg  
+    ├── style.css
+    └── script.js
 
 ---
 
